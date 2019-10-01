@@ -1463,10 +1463,13 @@ DEFAULT CSS END
 .order:after {
   position: absolute;
   content: '';
-  background-image: url(../img/product-3.png);
-  left: 330px;
+  background-image: url(../img/product.png);
+  background-repeat: no-repeat;
+  -webkit-background-size: 100%;
+  background-size: ;
+  left: 390px;
   bottom: 40px;
-  width: 434px;
+  width: 250px;
   height: 332px
 }
 .order:before {
@@ -1642,7 +1645,7 @@ DEFAULT CSS END
     bottom: -42px
   }
   .second-img {
-    width: 300px
+    width: 120px
   }
   .third {
     padding-top: 60px
