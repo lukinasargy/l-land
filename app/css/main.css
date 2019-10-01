@@ -521,7 +521,8 @@ DEFAULT CSS END
   overflow-y: auto;
   -webkit-perspective: 1px;
   perspective: 1px;
-  height: 100vh
+  height: 100vh;
+  scroll-behavior: smooth;
 }
 .first {
   margin-top: 100px;
