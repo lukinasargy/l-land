@@ -522,7 +522,7 @@ DEFAULT CSS END
   -webkit-perspective: 1px;
   perspective: 1px;
   height: 100vh;
-  scroll-behavior: smooth;
+  scroll-behavior: smooth
 }
 .first {
   margin-top: 100px;
@@ -1467,11 +1467,11 @@ DEFAULT CSS END
   background-image: url(../img/product.png);
   background-repeat: no-repeat;
   -webkit-background-size: 100%;
-  background-size: ;
+  background-size: 100%;
   left: 390px;
   bottom: 40px;
   width: 250px;
-  height: 332px
+  height: 420px
 }
 .order:before {
   position: absolute;
@@ -1646,7 +1646,7 @@ DEFAULT CSS END
     bottom: -42px
   }
   .second-img {
-    width: 120px
+    width: 110px
   }
   .third {
     padding-top: 60px
@@ -1905,7 +1905,7 @@ DEFAULT CSS END
   .order:after {
     top: -264px;
     left: 70px;
-    width:150px;
+    width: 150px;
     background-repeat: no-repeat;
     -webkit-background-size: 100% 100%;
     background-size: 100%
