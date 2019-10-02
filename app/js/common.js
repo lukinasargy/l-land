@@ -16,7 +16,7 @@ $(function () {
 			top = $(id).offset().top + $('.main').scrollTop();
 		$('.main').animate({
 			scrollTop: top
-		}, 0);
+		}, 1000);
 	});
 
 
